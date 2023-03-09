@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+
+`Redstone Games <https://www.redstonegames.com.br/>`_
